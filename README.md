@@ -1,14 +1,14 @@
 This recipe is about a Pizza.It is a very tasty but a junk food. Many people all over the world enjoy eating this dish.
 
 The ingredients for making a pizza are:
-Pizza Base
-Paneer 
-Cheese
-Sauce
-Tomatoes
-Capsicum
-Olives
-Chilly flakes
+Pizza Base,
+Paneer, 
+Cheese,
+Sauce,
+Tomatoes,
+Capsicum,
+Olives,
+Chilly flakes.
 
 First take the pizza base and add sauce on it.
 Grate the cheese and paneer and them to the pizza base.
